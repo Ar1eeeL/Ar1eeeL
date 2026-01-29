@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-Soy un desarrollador apasionado por la programación y la mejora continua. Me especializo en crear soluciones web utilizando <b>Python (Django)</b> y <b>PHP (Laravel)</b>. Tengo experiencia integrando modelos de Inteligencia Artificial (OpenAI, Gemini) en plataformas educativas y desarrollando sistemas de gestión completos.
+Desarrollador de Software apasionado por la programación y la mejora continua. Me especializo en crear soluciones web utilizando <b>Python (Django)</b>, <b>PHP (Laravel)</b> y <b>Java</b>. Tengo experiencia integrando modelos de Inteligencia Artificial (OpenAI, Gemini, DeepSeek) en plataformas educativas y desarrollando sistemas de gestión académica completos con funcionalidades avanzadas.
 </p>
 
 ## Stack Tecnológico <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
@@ -29,23 +29,38 @@ Soy un desarrollador apasionado por la programación y la mejora continua. Me es
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
+  <a href="https://www.java.com" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  </a>
   <a href="https://www.php.net" target="_blank">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   </a>
-    <a href="https://getbootstrap.com/" target="_blank">
+  <a href="https://laravel.com/" target="_blank">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   </a>
-   <a href="https://tailwindcss.com/" target="_blank">
+  <a href="https://tailwindcss.com/" target="_blank">
     <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
