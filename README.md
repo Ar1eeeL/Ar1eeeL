@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-Soy un desarrollador apasionado por la programación y la mejora continua. [cite_start]Me especializo en crear soluciones web utilizando <b>Python (Django)</b> y <b>PHP (Laravel)</b>[cite: 38, 39]. [cite_start]Tengo experiencia integrando modelos de Inteligencia Artificial (OpenAI, Gemini) en plataformas educativas y desarrollando sistemas de gestión completos[cite: 14, 15]. Me destaco por mi proactividad y capacidad para trabajar en equipos ágiles.
+Soy un desarrollador apasionado por la programación y la mejora continua. Me especializo en crear soluciones web utilizando <b>Python (Django)</b> y <b>PHP (Laravel)</b>. Tengo experiencia integrando modelos de Inteligencia Artificial (OpenAI, Gemini) en plataformas educativas y desarrollando sistemas de gestión completos. Me destaco por mi proactividad y capacidad para trabajar en equipos ágiles.
 </p>
 
 ## Stack Tecnológico <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
