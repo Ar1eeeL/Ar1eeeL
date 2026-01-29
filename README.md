@@ -52,25 +52,20 @@ Soy un desarrollador apasionado por la programación y la mejora continua. Me es
   </a>
 </p>
 
+## Racha de Commits 🔥
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ar1eeeL&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
 ## Estadísticas de GitHub 
 
 <details> 
   <summary><b>💻 Ver estadísticas del perfil</b></summary>
   <br/>
   <p align="center">
-    <!-- Commit Streak -->
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Ar1eeeL&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    <br/>
-    <br/>
     <!-- Profile Summary Cards -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ar1eeeL&theme=tokyonight" alt="Profile Details" />
-    <br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ar1eeeL&theme=tokyonight" alt="Repos per Language" width="400"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ar1eeeL&theme=tokyonight" alt="Most Commit Language" width="400"/>
-    <br/>
-    <!-- Additional Stats -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ar1eeeL&theme=tokyonight" alt="Stats" width="400"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ar1eeeL&theme=tokyonight" alt="Productive Time" width="400"/>
   </p>
 </details>
 
