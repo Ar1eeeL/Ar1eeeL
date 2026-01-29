@@ -72,7 +72,7 @@ Soy un desarrollador apasionado por la programación y la mejora continua. Me es
   <summary><b>⚡ Actividad Reciente</b></summary>
   <br/>
    <a href="https://github.com/Ar1eeeL">
-     <img alt="Ariel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ar1eeeL&custom_title=Actividad%20de%20Ariel&theme=react-dark" />
+     <img alt="Ariel's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ar1eeeL&custom_title=Actividad%20de%20Ariel&theme=react-dark&hide_border=true" />
    </a>
   <br/>
 </details>
