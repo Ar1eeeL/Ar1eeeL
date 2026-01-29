@@ -76,18 +76,6 @@ Soy un desarrollador apasionado por la programación y la mejora continua. Me es
   </a>
 </p>
 
-## Proyectos Destacados
-
-<div align="center">
-<a href="https://github.com/Ar1eeeL/MentorIA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ar1eeeL&repo=MentorIA&theme=tokyonight" />
-</a>  
-
-<a href="https://github.com/Ar1eeeL/Mis-Notas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ar1eeeL&repo=Mis-Notas&theme=tokyonight" />
-</a> 
-</div>
-
 ## Estadísticas de GitHub <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 <details> 
