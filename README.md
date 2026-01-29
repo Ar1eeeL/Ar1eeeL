@@ -8,7 +8,7 @@
   <a href="mailto:facuarielgonzalez@gmail.com?subject=Hola%20Ariel,%20vi%20tu%20Github">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/TU-URL-DE-LINKEDIN-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/AQUÍ-TU-USUARIO-LINKEDIN" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>    
  </p>
@@ -75,6 +75,18 @@ Soy un desarrollador apasionado por la programación y la mejora continua. Me es
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
 </p>
+
+## Proyectos Destacados
+
+<div align="center">
+<a href="https://github.com/Ar1eeeL/MentorIA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ar1eeeL&repo=MentorIA&theme=tokyonight" />
+</a>  
+
+<a href="https://github.com/Ar1eeeL/Mis-Notas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ar1eeeL&repo=Mis-Notas&theme=tokyonight" />
+</a> 
+</div>
 
 ## Estadísticas de GitHub <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
