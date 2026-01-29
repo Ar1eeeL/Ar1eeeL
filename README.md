@@ -10,7 +10,10 @@
   </a>
   <a href="https://www.linkedin.com/in/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>    
+  </a>
+  <a href="https://portafolio-three-cyan-24.vercel.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
  </p>
 
 <h1 align="center">¡Hola, soy Ariel Gonzalez! 👋</h1>
