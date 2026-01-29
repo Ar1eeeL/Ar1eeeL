@@ -58,8 +58,8 @@ Soy un desarrollador apasionado por la programación y la mejora continua. Me es
   <summary><b>💻 Ver estadísticas del perfil</b></summary>
   <br/>
   <p align="center">
-    <!-- GitHub Streak Stats -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ar1eeeL&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <!-- Commit Streak -->
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Ar1eeeL&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     <br/>
     <br/>
     <!-- Profile Summary Cards -->
@@ -67,6 +67,10 @@ Soy un desarrollador apasionado por la programación y la mejora continua. Me es
     <br/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ar1eeeL&theme=tokyonight" alt="Repos per Language" width="400"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ar1eeeL&theme=tokyonight" alt="Most Commit Language" width="400"/>
+    <br/>
+    <!-- Additional Stats -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ar1eeeL&theme=tokyonight" alt="Stats" width="400"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ar1eeeL&theme=tokyonight" alt="Productive Time" width="400"/>
   </p>
 </details>
 
