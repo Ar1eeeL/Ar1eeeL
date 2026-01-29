@@ -58,13 +58,14 @@ Soy un desarrollador apasionado por la programación y la mejora continua. Me es
   <summary><b>💻 Ver estadísticas del perfil</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Ariel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ar1eeeL&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
+    <a href="https://github.com/Ar1eeeL">
+      <img alt="Ariel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ar1eeeL&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="192px"/>
     </a>
     <br/>
      &nbsp;
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ar1eeeL&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Top Langs" height="192px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar1eeeL&show_icons=true&locale=es&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="192px"/>
   <br/>
+  <b>Nota:</b> Los gráficos pueden tardar unos segundos en cargar.
   </p>
 </details>
 
