@@ -55,7 +55,7 @@ Soy un desarrollador apasionado por la programación y la mejora continua. Me es
 ## Racha de Commits 🔥
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ar1eeeL&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ar1eeeL&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## Estadísticas de GitHub 
