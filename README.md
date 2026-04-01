@@ -82,8 +82,8 @@ Desarrollador de Software apasionado por la programación y la mejora continua. 
   <summary><b>💻 Ver estadísticas del perfil</b></summary>
   <br/>
   <p align="center">
-    <!-- Profile Summary Cards -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ar1eeeL&theme=tokyonight" alt="Profile Details" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ar1eeeL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar1eeeL&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </p>
 </details>
 
@@ -91,7 +91,7 @@ Desarrollador de Software apasionado por la programación y la mejora continua. 
   <summary><b>⚡ Actividad Reciente</b></summary>
   <br/>
    <a href="https://github.com/Ar1eeeL">
-     <img alt="Ariel's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ar1eeeL&custom_title=Actividad%20de%20Ariel&theme=react-dark&hide_border=true" />
+     <img alt="Ariel's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ar1eeeL&custom_title=Actividad%20de%20Ariel&theme=tokyo-night&hide_border=true&area=true" />
    </a>
   <br/>
 </details>
