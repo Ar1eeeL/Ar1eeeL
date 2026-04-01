@@ -8,7 +8,7 @@
   <a href="mailto:facuarielgonzalez@gmail.com?subject=Hola%20Ariel">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/arieel/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://portafolio-three-cyan-24.vercel.app/" target="_blank">
@@ -73,7 +73,7 @@ Desarrollador de Software apasionado por la programación y la mejora continua. 
 ## Racha de Commits 🔥
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ar1eeeL&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ar1eeeL&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## Estadísticas de GitHub 
